@@ -1,4 +1,4 @@
-# WebTerm One
+# W3 Terminal
 👨‍💻 Web based command-line Terminal with multi-features.
 
 ### Features
