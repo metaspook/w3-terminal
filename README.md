@@ -34,3 +34,16 @@ with multi features written in PHP.
 <details><summary>Click to collapse/fold.</summary><br/> 
 
 * v0.1.0 - Initial release</details>
+
+## **🎈 Sources**
+<details><summary>Click to collapse/fold.</summary><br/>
+  
+* Project source: https://github.com/metaspook/w3-terminal
+* Based on 'Web Console': https://github.com/nickola/web-console
+* Various code snippets from: https://github.com/metaspook/metasnippet
+* jQuery JavaScript Library: https://github.com/jquery/jquery
+* jQuery Terminal Emulator: https://github.com/jcubic/jquery.terminal
+* jQuery Mouse Wheel Plugin: https://github.com/brandonaaron/jquery-mousewheel
+* PHP JSON-RPC 2.0 Server/Client Implementation: https://github.com/sergeyfast/eazy-jsonrpc
+* Normalize.css: https://github.com/necolas/normalize.css
+</details>
