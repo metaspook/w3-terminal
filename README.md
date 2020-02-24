@@ -1,6 +1,6 @@
 # W3 Terminal
-👨‍💻 W3 Terminal is a single file PHP based command-line terminal application
-with multi features.
+W3 Terminal is a single file command-line terminal application
+with multi features written in PHP.
 
 ## **🕹️ Screenshot**
 ![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
