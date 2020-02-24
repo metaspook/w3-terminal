@@ -4,22 +4,9 @@ with multi features.
 
 
 ## **🕹️ Screenshot**
-   
-<p>
-<details>
-<summary>Click to collapse/fold.</summary>
-<br/> 
-  
-  ![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
-</details></p> 
+![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
 
 ## **🎈 Features**
-
-<p>
-<details>
-<summary>Click to collapse/fold.</summary>
-<br/> 
-  
 * Cross-platform Windows/Linux/Mac support.
 * Single file PHP based portable application.
 * Open-source and customizable.
@@ -32,7 +19,6 @@ with multi features.
 * 'cd' command supports '~' (tilde) character as system user's home directory for Linux/Mac.
 * 'cd' command with empty path returns to W3 Terminal's home directory for Windows/Linux/Mac.
 * Customizable HTML title, Banner text and color.
-</details></p> 
 
 ## **🎈 Change Log**
    
