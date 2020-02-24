@@ -2,10 +2,24 @@
 👨‍💻 W3 Terminal is an single file PHP based command-line terminal application
 with multi features.
 
-## 🕹️ Screenshot
-![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
 
-## 🎈 Features
+## **🕹️ Screenshot**
+   
+<p>
+<details>
+<summary>Click to collapse/fold.</summary>
+<br/> 
+  
+  ![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
+</details></p> 
+
+## **🎈 Features**
+
+<p>
+<details>
+<summary>Click to collapse/fold.</summary>
+<br/> 
+  
 * Cross-platform Windows/Linux/Mac support.
 * Single file PHP based portable application.
 * Open-source and customizable.
@@ -18,9 +32,13 @@ with multi features.
 * 'cd' command supports '~' (tilde) character as system user's home directory for Linux/Mac.
 * 'cd' command with empty path returns to W3 Terminal's home directory for Windows/Linux/Mac.
 * Customizable HTML title, Banner text and color.
+</details></p> 
 
-<details><summary><h3>🎈 Change Log</h3></summary>
-<b>v0.1.0</b>
+## 🎈 Change Log
+### v2.0
+* Initial release
+
+<details><summary><b>Source</b></summary>
 
 * Initial release
 </details>
