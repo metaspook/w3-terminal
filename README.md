@@ -26,6 +26,7 @@ with multi features written in PHP.
 * Ensure you're in PHP version 7.0.0 equal or higher.
 * Look over 'W3 Terminal' PHP file from top on text editor.
 * Read 'USER GUIDE' section and edit 'USER CONFIG' section.
+* Generate password hash here: https://www.sordum.org/hashgenerator
 * Save/upload edited file at web server and open it in a browser.
 </details>
 
