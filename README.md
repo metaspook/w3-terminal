@@ -41,6 +41,6 @@ with multi features.
 <summary>Click to collapse/fold.</summary>
 <br/> 
 
-v0.1.0 - Initial release
+* v0.1.0 - Initial release
 </details></p> 
 
