@@ -3,7 +3,7 @@
 with multi features. 
 
 ## 🕹️ Screenshot
-![&nbsp;Missing screenshot!](/../master/screepshot2.png?raw=true)
+![&nbsp;Missing screenshot!](/../master/screepshot.png?raw=true)
 
 <details><summary>Click to Expand
   
