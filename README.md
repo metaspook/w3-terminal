@@ -14,8 +14,8 @@ with multi features written in PHP.
 * System's current user login support.
 * Multi-user login support.
 * Multi-user custom home directory support.
-* Pre-commands feature (Commands to execute before user inputted command executes, alternative to .bashrc)
-* Alias-commands feature (Command aliases of user inputtable commands.)
+* Pre-commands (Commands to execute before user inputted command executes, alternative to .bashrc)
+* Alias-commands (Command aliases of user inputtable commands.)
 * 'cd' command supports '~' (tilde) character as system user's home directory for Linux/Mac.
 * 'cd' command with empty path returns to W3 Terminal's home directory for Windows/Linux/Mac.
 * Customizable HTML title, Banner text and color.
