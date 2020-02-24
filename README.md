@@ -34,12 +34,13 @@ with multi features.
 * Customizable HTML title, Banner text and color.
 </details></p> 
 
-## 🎈 Change Log
-### v2.0
-* Initial release
+## **🎈 Change Log**
+   
+<p>
+<details>
+<summary>Click to collapse/fold.</summary>
+<br/> 
 
-<details><summary><b>Source</b></summary>
-
-* Initial release
-</details>
+v0.1.0 - Initial release
+</details></p> 
 
