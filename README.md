@@ -1,4 +1,4 @@
-# W3 Terminal ..I'll upload tomorrow need some debug!
+# 👨‍💻 W3 TERMINAL 
 W3 Terminal is a single file command-line terminal application
 with multi features written in PHP.
 
