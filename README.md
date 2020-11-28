@@ -34,7 +34,7 @@ with multi features written in PHP.
 ## **🎈 Change Log**
 <details><summary>Click to collapse/fold.</summary><br/> 
 
-* v0.1.1 - Function 'proc_open' checking.
+* v0.2.0 - Function 'proc_open' checking.
 * v0.1.0 - Initial release.</details>
 
 ## **🎈 Sources**
