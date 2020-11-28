@@ -1,6 +1,6 @@
 <?php
 /**
-* ~ W3 Terminal v0.1.0 [2020-02-24]
+* ~ W3 Terminal v0.2.0 [2020-11-29]
 * ~ Web based Terminal Emulator with multi-features.
 *
 * Author: Metaspook (https://github.com/metaspook)
@@ -608,7 +608,7 @@ if (isset($S_USERNAME) && !is_empty_string($S_USERNAME)){
 }
 isset($PASSWORD_HASH_ALGORITHM) ?: $PASSWORD_HASH_ALGORITHM = '';
 isset($CUSTOM_USER_DIRECTORIES) ?: $CUSTOM_USER_DIRECTORIES = '';
-$IS_CONFIGURED = ($NO_LOGIN || count($CUSTOM_USER_ACCOUNTS) >= 1) ? (version_compare(PHP_VERSION, '7.0.0', '>=') ? true : false) : false;
+$IS_CONFIGURED = ($NO_LOGIN || count($CUSTOM_USER_ACCOUNTS) >= 1) ? (version_compare(PHP_VERSION, '7.0.0', '>=') ? (strpos(ini_get('disable_functions'),'proc_open') ? false : true) : false) : false;
 
 // Utilities
 function is_empty_string($string) {
@@ -885,7 +885,8 @@ else if (!$IS_CONFIGURED) {
     <body>
         <div class="configure">
             <font color="<?php echo $BANNER_COLOR ?>"><?php echo html_escape($BANNER_TEXT) ?></font>
-            <p># Required PHP version <span class="variable">7.0.0</span> equal or higher, current version is <span class="variable"><?php echo PHP_VERSION ?></span>.</p>
+            <p># Required PHP version <span class="variable">7.0.0</span> equal or higher and PHP function <span class="variable">proc_open</span> Enabled.</p>
+            <p># Current PHP version is <span class="variable"><?php echo PHP_VERSION ?></span> and PHP function <span class="variable">proc_open</span> is <?php echo (strpos(ini_get('disable_functions'),'proc_open') ? "Disabled." : "Enabled.") ?></p>
             <p># W3 Terminal must be configured before use:</p>
             <ul>
                 <li>Open 'W3 Terminal' PHP file in a text editor and look over from top.</li>
